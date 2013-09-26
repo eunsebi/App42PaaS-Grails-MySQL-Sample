@@ -1,7 +1,7 @@
 Getting Started with App42PaaS-Grails-MySQL Sample Application:
 ---------------------------------------------------------
 
-This application is basically a simple grails application.
+This application is basically a simple User Input Form that takes input from user and saves it in database.
 
 <b>[Download the source code from git.](https://github.com/shephertz/App42PaaS-Grails-MySQL-Sample/archive/master.zip)</b>
 
