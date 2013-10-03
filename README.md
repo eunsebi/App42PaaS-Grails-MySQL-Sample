@@ -41,9 +41,8 @@ Project Configuration:
 Deploying Application on App42 PaaS using Binary:
 ---------------------------------------------------
 					
-         1. Create war file.
 		
-	     2. Run the app42 deploy command.
+	1. Run the app42 deploy command.
         
                   $ app42 deploy
                   $ Enter App Name: <your_app_name>
